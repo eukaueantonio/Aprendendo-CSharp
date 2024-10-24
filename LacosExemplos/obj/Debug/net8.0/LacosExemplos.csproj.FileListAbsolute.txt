@@ -1,0 +1,14 @@
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\bin\Debug\net8.0\LacosExemplos.exe
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\bin\Debug\net8.0\LacosExemplos.deps.json
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\bin\Debug\net8.0\LacosExemplos.runtimeconfig.json
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\bin\Debug\net8.0\LacosExemplos.dll
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\bin\Debug\net8.0\LacosExemplos.pdb
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\obj\Debug\net8.0\LacosExemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\obj\Debug\net8.0\LacosExemplos.AssemblyInfoInputs.cache
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\obj\Debug\net8.0\LacosExemplos.AssemblyInfo.cs
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\obj\Debug\net8.0\LacosExemplos.csproj.CoreCompileInputs.cache
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\obj\Debug\net8.0\LacosExemplos.dll
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\obj\Debug\net8.0\refint\LacosExemplos.dll
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\obj\Debug\net8.0\LacosExemplos.pdb
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\obj\Debug\net8.0\LacosExemplos.genruntimeconfig.cache
+C:\Users\57104262881\Desktop\Aula back-end\LacosExemplos\obj\Debug\net8.0\ref\LacosExemplos.dll
