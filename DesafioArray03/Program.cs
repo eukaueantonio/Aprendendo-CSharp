@@ -4,7 +4,7 @@
         for (int i = 0; i < 12; i++)
         {
             Console.Write($"Digite a temperatura média do mês {i + 1}: ");
-            temperaturas[i] = Convert.Parse(Console.ReadLine()!);
+            temperaturas[i] = int.Parse(Console.ReadLine()!);
         }
 
        
