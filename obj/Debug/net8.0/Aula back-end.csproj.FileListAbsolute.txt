@@ -2,3 +2,4 @@ C:\Users\57104262881\Desktop\Aula back-end\obj\Debug\net8.0\Aula back-end.Genera
 C:\Users\57104262881\Desktop\Aula back-end\obj\Debug\net8.0\Aula back-end.AssemblyInfoInputs.cache
 C:\Users\57104262881\Desktop\Aula back-end\obj\Debug\net8.0\Aula back-end.AssemblyInfo.cs
 C:\Users\57104262881\Desktop\Aula back-end\obj\Debug\net8.0\Aula back-end.csproj.CoreCompileInputs.cache
+C:\Users\57104262881\Desktop\Aula back-end\obj\Debug\net8.0\Aula back-end.sourcelink.json
