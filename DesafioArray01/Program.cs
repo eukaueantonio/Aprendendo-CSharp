@@ -26,18 +26,19 @@ Console.WriteLine($"{par} número(s) par(es): ");
 // 22
 for (int i = 0; i < numeros.Length; i++)
 {
-    if(numeros[i] % 2 == 0){ //se for par
+    if (numeros[i] % 2 == 0)
+    { //se for par
         Console.Write($"{numeros[i]} ");
     }
 }
 
- Console.WriteLine();//pula uma linha
- Console.WriteLine();//pula uma linha
+Console.WriteLine();//pula uma linha
+Console.WriteLine();//pula uma linha
 
 Console.WriteLine($"{impar} número(s) impar(es):");
 //          0   1  2   3   4  5
 // array ( 35, 22, 15, 17, 7, 21 )
-for (int i = 0; i < numeros.Length; i++)
+for (int i = 0; i < numeros.Length; i++) ;
 {
     if (numeros[i] % 2 == 1)
     {
@@ -45,5 +46,5 @@ for (int i = 0; i < numeros.Length; i++)
     }
 }
 
- Console.WriteLine();//pula uma linha
- Console.WriteLine();//pula uma linha
+Console.WriteLine();//pula uma linha
+Console.WriteLine();//pula uma linha
